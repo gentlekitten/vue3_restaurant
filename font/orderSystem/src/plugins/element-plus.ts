@@ -1,0 +1,47 @@
+
+import {
+    ElButton,
+    ElAvatar,
+    ElMessage,
+    ElForm,
+    ElFormItem,
+    ElContainer,
+    ElInput,
+    ElBreadcrumb,
+    ElBreadcrumbItem,
+    ElDropdown,
+    ElDropdownItem,
+    ElTabs,
+    ElTabPane,
+    ElTable,
+    ElTableColumn,
+    ElPagination,
+    ElPopconfirm,
+    ElCard,
+    ElDatePicker,
+    ElRadioGroup,
+    ElRadioButton
+} from 'element-plus';
+export const components: any[] = [
+    ElButton,
+    ElAvatar,
+    ElForm,
+    ElFormItem,
+    ElContainer,
+    ElInput,
+    ElBreadcrumb,
+    ElBreadcrumbItem,
+    ElDropdown,
+    ElDropdownItem,
+    ElTabs,
+    ElTabPane,
+    ElTable,
+    ElTableColumn,
+    ElPagination,
+    ElPopconfirm,
+    ElCard,
+    ElDatePicker,
+    ElRadioGroup,
+    ElRadioButton
+]
+// export const plugins: any[] = [ElMessage]
